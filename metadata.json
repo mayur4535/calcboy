@@ -1,0 +1,6 @@
+{
+  "name": "CalcBoy",
+  "description": "Native engineering calculator suite with electronics, circuit, and component calculation tools from CalcBoy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
